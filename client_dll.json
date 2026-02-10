@@ -15062,11 +15062,6 @@
         ],
         "parent": null
       },
-      "List_all_physics_component_contents_of_every_entity_in_the_game_______stream__1_0__________initiate_terminate_streaming_to_physi": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
       "OutflowWithRequirements_t": {
         "fields": {
           "m_Connection": 0,
@@ -15406,53 +15401,6 @@
         ],
         "parent": null
       },
-      "_": {
-        "fields": {
-          "": 131072
-        },
-        "metadata": [],
-        "parent": null
-      },
-      "__": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "__3X_": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "___": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "___DX5_D_t______P_____R___v__R___e_D9__D____": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "___D___D_gh___": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "___Dr__D_BwA": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "_____": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
-      "__________Rubikon_wide_memory_short_status______sdk__struct__________Rubikon_wide_memory_use_per_struct______sdk__rebuildsvms___": {
-        "fields": {},
-        "metadata": [],
-        "parent": null
-      },
       "audioparams_t": {
         "fields": {
           "localBits": 108,
@@ -15488,11 +15436,6 @@
             "type_name": "uint32"
           }
         ],
-        "parent": null
-      },
-      "body_pairs__bodies_in_contact_______world__save__name____save_world_to_a_file______world__mem___________memory_dump__separately_": {
-        "fields": {},
-        "metadata": [],
         "parent": null
       },
       "fogparams_t": {
