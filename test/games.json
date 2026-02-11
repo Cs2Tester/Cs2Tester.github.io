@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2048",
+    "name": "2048 Official",
+    "path": "https://play2048.co/",
+    "icon": "https://img.icons8.com/color/512/2048.png-512.png",
+    "category": "Puzzle"
+  },
+  {
+    "id": "tetris",
+    "name": "Tetris Port",
+    "path": "https://tetris.com/play-tetris",
+    "icon": "https://img.icons8.com/color/512/tetris.png",
+    "category": "Classic"
+  },
+  {
+    "id": "pacman",
+    "name": "Pac-Man",
+    "path": "https://www.google.com/logos/2010/pacman10-i.html",
+    "icon": "https://img.icons8.com/color/512/pacman.png",
+    "category": "Arcade"
+  },
+  {
+    "id": "local-game-example",
+    "name": "My Local Game",
+    "path": "./games/my-custom-game/index.html",
+    "icon": "https://picsum.photos/seed/game1/200",
+    "category": "Local"
+  }
+]

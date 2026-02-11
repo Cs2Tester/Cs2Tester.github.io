@@ -1,0 +1,14 @@
+{
+  "name": "web-game-launcher",
+  "version": "1.0.0",
+  "description": "A local web port game launcher that reads from a JSON directory.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 8080 -o"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "author": "Expert Developer",
+  "license": "MIT"
+}
